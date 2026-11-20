@@ -1,0 +1,21 @@
+# Data manipulation
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+joblib
+
+# NLP - Text preprocessing
+nltk
+contractions
+
+# NLP - Word Embeddings
+gensim
+
+# Later - Chatbot / Web Application
+streamlit
